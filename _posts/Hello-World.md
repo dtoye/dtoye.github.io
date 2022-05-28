@@ -1,7 +1,8 @@
 ---
+layout: post
 title: Hello World
-date: 2022-05-27 12:00:00 -500
-categories: [docs]
+date: 2022-05-27 12:00:00 -400
+categories: [docs,syntax]
 tags: [notes,todo,hobbies,homelab]
 ---
 
