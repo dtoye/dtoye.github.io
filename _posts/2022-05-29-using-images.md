@@ -14,14 +14,14 @@ Looks like a free site where I can post images that my web pages can display. No
 
 add the following to rotate the image 90 degrees
 
-'''bash
+```bash
 style="transform:rotate(90deg);"
-'''
+```
 
 ### Example
 
-'''bash
+```bash
 <a href="https://www.imagebam.com/view/MEB2ETV" target="_blank"><img src="https://thumbs4.imagebam.com/18/04/fa/MEB2ETV_t.jpeg" alt="7159C4FB-8033-414A-BDCD-F1A7BB5CAD1C.jpeg" style="transform:rotate(90deg);"/></a>
-'''
+```
 
 <a href="https://www.imagebam.com/view/MEB2ETV" target="_blank"><img src="https://thumbs4.imagebam.com/18/04/fa/MEB2ETV_t.jpeg" alt="7159C4FB-8033-414A-BDCD-F1A7BB5CAD1C.jpeg" style="transform:rotate(90deg);"/></a>
