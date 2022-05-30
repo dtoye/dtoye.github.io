@@ -6,7 +6,7 @@ categories: [Hobbies]
 tags: [cyberpunk, greeblecity, painting]
 ---
 
-Here is a work in progress of a cyberpunk style tower. I glued some of the floora together to make it more sturdy but it is still pieces that can be re-arranged.
+Here is a work in progress of a cyberpunk style tower. I glued some of the floors together to make it more sturdy but it is still in 3 pieces that can be re-arranged.
 
 The base coat is Aggaros Dunes Contrast paint
 
