@@ -6,6 +6,8 @@ categories: [Documentation]
 tags: [jekyll, howto]
 ---
 
+Just some random notes on how post articles. Because I do it so rarely, I constantly forget.
+
 ''
 jekyll post "Composing new articles"
 '''
