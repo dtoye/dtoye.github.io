@@ -15,4 +15,4 @@ Fast forward to 2022... now I want gigE speed from my workstation to the core an
 ## t568b wiring standard
 This is the basic cable that you buy
 
-<a href="https://www.cctvkits.co.uk/blog/ip-cctv-wiring-cat5-6-cable-with-rj45-connectors/" > <img src="https://www.cctvkits.co.uk/blog/ip-cctv-wiring-cat5-6-cable-with-rj45-connectors/" >
+<a href="https://https://www.cctvkits.co.uk/images/thumbnails/400/400/blog/10/standard-pinout.jpg.jpg" > <img src="https://www.cctvkits.co.uk/images/thumbnails/400/400/blog/10/standard-pinout.jpg.jpg" >
