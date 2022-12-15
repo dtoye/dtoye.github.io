@@ -201,6 +201,6 @@ jekyll_compose:
   default_front_matter:
     posts:
       layout: post
-      categories:
-      tags:
+      categories: [Hobbies]
+      tags: [painting]
       
