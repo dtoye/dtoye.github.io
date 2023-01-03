@@ -76,6 +76,10 @@ We have three options for this model. Two are *Infiltrators* and one *Incursor* 
 
 I've decided to go with variant #3. 
 
+### WIP
+
+![Model 1](https://i.imgur.com/ChqRkQI.jpg)
+
 ## Model 2 - Infiltrator Sabateur
 
 > Carrying a deadly array of melta charges, super-krak munitions and even anti-plant canisters into battle, the Infiltrator Saboteur is well prepared to rig any target for destruction. This task completed, they fall back swiftly before triggering a blast like the Emperor’s wrath.
@@ -101,3 +105,7 @@ I've decided to go with variant #3.
 ## Model 6 - Infiltrator Veteran
 
 > The most experienced Infiltrator battle-brothers stalk their enemies like armoured gheists, wielding weaponry selected from their Chapter’s most rarefied armouries, each one augmented through the careful attentions of master artificers. So-armed, they can act as the nemeses of any foe.
+
+## Misc Pictures
+
+![Start](https://i.imgur.com/ZYpbBIo.jpg)
