@@ -106,6 +106,66 @@ I've decided to go with variant #3.
 
 > The most experienced Infiltrator battle-brothers stalk their enemies like armoured gheists, wielding weaponry selected from their Chapter’s most rarefied armouries, each one augmented through the careful attentions of master artificers. So-armed, they can act as the nemeses of any foe.
 
-## Misc Pictures
+## Model 7 - Incursor Minelayer
+   
+> Some Incursors carry heavy haywire mines into battle, planting them at pre-cogitated nexuses of probable enemy movement. The electrophantasmic blasts of these weapons can banish machine spirits from enemy wargear and cripple augmetic enhancements.
 
-![Start](https://i.imgur.com/ZYpbBIo.jpg)
+## Model 8 - Infiltrator Warrior
+
+>The Infiltrators who fight as part of Phobos Strike Teams are swift and aggressive in thought and deed, even by the standards of their warrior brotherhood. Few foes can long evade their pinpoint volleys or the bone-crushing blows of their armoured fists.
+
+## Model 9 (pose 13) - Infiltrator Warrior
+
+>The Infiltrators who fight as part of Phobos Strike Teams are swift and aggressive in thought and deed, even by the standards of their warrior brotherhood. Few foes can long evade their pinpoint volleys or the bone-crushing blows of their armoured fists.
+
+## Incursor Marksman
+
+> As though the combination of a highly trained Space Marine and a potent mark of bolt carbine were not deadly enough, the Incursor Marksman employs his Divinator-class auspex to precognitively track where his targets will be, then places killing shots accordingly
+
+# WIP
+
+## Assemblies
+
+![Assemblies](https://i.imgur.com/ChqRkQI.jpg)
+
+![Assemblies-2](https://i.imgur.com/ZYpbBIo.jpg)
+
+![Model 6](https://i.imgur.com/4LONWTZ.jpg)
+
+Don't look at the flash lines...
+
+## Priming
+
+I primed with my airbrush the miniatures with black then I primed them again with gray from above. The top has more grey then the bottom. I decided to add some grey to the underside to make it not *so* black.
+
+![grep primed](https://i.imgur.com/USdFKIk.jpg)
+
+![compare](https://i.imgur.com/PgekcuP.jpg)
+
+## Black Armour
+
+I painted the armour plates with *Army Painter Gun Metal* then I painted *Black Templar Contrast* on top of it. I also painted the *Black Templar* over the grey primed under garment.
+
+### Step 1 - Gun Metal
+
+![Gun Metal Base](https://i.imgur.com/90dbd6u.jpg)
+
+### Step 2 - Black Templar
+
+![Black Templar](https://i.imgur.com/0r2MrTt.jpg)
+
+
+
+## Iron Father
+
+![Step 1](https://i.imgur.com/E44WMjI.jpg)
+
+# Random Notes
+
+Trying out Liquitex masking fluid cover parts of the model that will be glued via plastic cement. Once removed, it will allow the cement to "melt" the parts together. Paint will prevent that from happening.
+
+# Scenery
+
+# Information Sites
+
+https://wahapedia.ru/kill-team2/kill-teams/phobos-strike-team/
